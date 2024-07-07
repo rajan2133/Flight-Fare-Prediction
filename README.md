@@ -1,9 +1,10 @@
 # Flight Fare Prediction
 
-![image](https://github.com/rajan2133/Flight-Fare-Prediction/assets/125083834/608d6644-ab93-4bf2-82fc-b09967bc6b65)
+![Capture](https://github.com/rajan2133/Flight-Fare-Prediction/assets/125083834/6a4e7648-55a1-4497-852e-e7e3bc8e2469)
 
 
-🌟 Welcome to the Flight Price Prediction Project! 🌟
+
+🌟 Welcome to the Flight Fair Prediction Project! 🌟
 
 This data science and machine learning project are your ticket 🎫 to predicting flight prices with precision. Whether you're a globe-trotter seeking budget-friendly fares ✈️ or a data enthusiast navigating the skies of machine learning 🚀, we've got your journey covered.
 
