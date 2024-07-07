@@ -58,10 +58,3 @@ Ahoy, fellow travelers! We extend an invitation to the open-source skies. Your i
 ## 📜 License
 
 Set sail with confidence! This project is licensed under the [MIT License](LICENSE), granting you the freedom to use, modify, and distribute the code for both personal and commercial purposes.
-
----
-
-🚢 If you have any questions, suggestions, or just want to share your travel tales, feel free to open an issue or contact us.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mooazam/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/SMMooazam)
