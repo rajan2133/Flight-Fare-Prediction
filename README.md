@@ -31,7 +31,7 @@ Air travel has woven itself into the fabric of modern life, but the ever-fluctua
 
 Your journey begins here! 🌄 Follow these steps to embark on this adventure:
 
-1. Clone this repository: `git clone https://github.com/MuhammadMooazam/Flight-Price-Prediction-Project.git`
+1. Clone this repository: 'https://github.com/rajan2133/Flight-Fare-Prediction.git'
 
 2. Delve into the Jupyter notebooks to explore the project's fascinating voyage.
 
